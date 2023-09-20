@@ -1,4 +1,4 @@
-<img align="center" width="1000" src="https://github.com/Yoro404/Yoro404/blob/main/banner.png">
+<img align="center" width="1000" src="https://github.com/Yoro404/Yoro404/blob/main/bannerGithub.png">
 
 <h2 align="center">Languages</h2>
 
