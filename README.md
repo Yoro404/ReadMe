@@ -12,4 +12,4 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoro404&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF" alt="Yoro404"/></p>
 
-<h1 align="center">Give a ⭐️ if this project helped you !</h1>
+<img align="center" width="1000" src="https://github.com/Yoro404/Yoro404/blob/main/bannerGithub2.png">
